@@ -1,6 +1,6 @@
-# Project One For All
+# Project Docker ToDo List
 
-The One For All Project is a full-stack task management application built to run entirely on Docker. It uses the advanced concepts of containers and orchestration to connect and manage the front-end and back-end components of the application, as well as a test application that validates the communication between the parts.
+The Docker ToDo List Project is a full-stack task management application built to run entirely on Docker. It uses the advanced concepts of containers and orchestration to connect and manage the front-end and back-end components of the application, as well as a test application that validates the communication between the parts.
 
 ## Installation
 
@@ -14,7 +14,7 @@ Follow the steps below to configure and run the project:
 
 ## Project description
 
-The One For All Project is based on a tasks application that is containerized using Docker. It includes settings for the frontend, backend, and also a test application that validates the communication between them. Docker Compose is used to orchestrate the operation of these different parts of the application.
+The Docker ToDo List Project is based on a tasks application that is containerized using Docker. It includes settings for the frontend, backend, and also a test application that validates the communication between them. Docker Compose is used to orchestrate the operation of these different parts of the application.
 
 The project includes a series of Docker commands that are used to configure and manage the application, including creating containers, running commands inside containers, removing containers, and much more. Each Docker command is kept in its own file for easy maintainability.
 
